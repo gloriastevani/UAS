@@ -1,0 +1,21 @@
+.posisi {
+    text-align: center;
+    margin-top: 200px;
+}
+.aturTombol {
+    background-color: #FF8C00;
+    border: none;
+    color: white;
+    padding: 5px 17px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.aturTombol:hover {
+    background-color: #228B22;
+    transform: scale(1.1);
+}

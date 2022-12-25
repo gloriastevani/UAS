@@ -1,0 +1,15 @@
+.aturBtnBeli {
+    border: none;
+    color: white;
+    padding: 5px 14px;
+    text-align: center;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.aturBtnBeli:hover {
+    transform: scale(1.1);
+}
